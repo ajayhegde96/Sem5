@@ -1,0 +1,1 @@
+echo Date today `date`
