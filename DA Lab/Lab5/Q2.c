@@ -105,3 +105,4 @@ int main()
   printf("Diameter of the given binary tree is %d\n", diameterOpt(root,&height));
   return 0;
 }
+//Tree creation AB
